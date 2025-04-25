@@ -72,11 +72,20 @@ const config = {
           "0%": { transform: "translateX(-200px)" },
           "100%": { transform: "translateX(200px)" },
         },
+        "logo-scroll": {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" },
+        },
+        "logo-spin": {
+          "100%": { transform: "rotate(360deg)" },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
         move: "move 5s linear infinite",
+        "logo-scroll": "logo-scroll 24s linear infinite",
+        "logo-spin": "logo-spin 4s linear infinite",
       },
     },
   },
