@@ -15,16 +15,16 @@ const testimonials: Testimonial[] = [
   {
     quote:
       "A AdShield revolucionou nossa operação de tráfego pago. O suporte e a transparência são diferenciais!",
-    name: "João Silva",
-    designation: "CEO, Agência XYZ",
-    src: "/images/testimonial1.jpg",
+    name: "Carlos Azevedo",
+    designation: "CEO, ADS SHIELD",
+    src: "/images/carlos azevedo.jpeg",
   },
   {
     quote:
       "Nunca foi tão fácil escalar campanhas sem dor de cabeça. Recomendo para todos que querem crescer!",
-    name: "Maria Souza",
+    name: "Fabricio Souza",
     designation: "Mídia Performance",
-    src: "/images/testimonial2.jpg",
+    src: "/images/fabricio.jpg",
   },
   {
     quote:
